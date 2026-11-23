@@ -7,6 +7,7 @@ Multica 工作区仓库，用于存放智能助手（Mika）的说明与协作�
 | 文件 | 说明 |
 | --- | --- |
 | `self-introduction.md` | Mika 的自我介绍 |
+| `hifox.md` | Hifox 工作空间平台的介绍 |
 
 ## 关于 Mika
 
